@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Julia and I am the second year student of **Computer Science in Engineering** at **AGH University of Science and Technology**.
-Apart from my university course I'm learning **graphics programming** on my own. I'm currently working on 3D Checkers game using **OpenGL API**. Source code will be publicly available on my github when I finish.
+Apart from my university course I'm learning **graphics programming** on my own. I'm currently working on 3D Checkers game using **C++** and **OpenGL API**. Source code will be publicly available on my github when I finish.
 
 <!--**jbahyrycz/jbahyrycz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
