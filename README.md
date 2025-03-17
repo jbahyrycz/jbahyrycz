@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My name is Julia and I am a third year student of **Computer Science in Engineering** at **AGH University of Science and Technology**. You can find some of my projects pinned down below 😄
-
 <!--**jbahyrycz/jbahyrycz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
